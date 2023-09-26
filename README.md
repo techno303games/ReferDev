@@ -1,5 +1,6 @@
 <html>
   <h1>ReferDev</h1>
+  <p><b>Note: ReferDev is not yet finished (or started)</b></p>
   <h2>Welcome!</h2>
   <p>Welcome to ReferDev, the all-in-one tool for people who are too lazy to bother going through a million websites to find one line in code.</p>
   <h2>How do you access ReferDev?</h2>
