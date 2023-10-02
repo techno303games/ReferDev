@@ -2,7 +2,7 @@
   <h1>ReferDev</h1>
   <p><b>Note: ReferDev is not yet finished (or started)</b></p>
   <h2>Welcome!</h2>
-  <p>Welcome to ReferDev, the all-in-one tool for people who are too lazy to bother going through a million websites to find one line in code.</p>
+  <p>Welcome to ReferDev, the all-in-one tool for people who are too lazy to bother going through a million websites to find one line of code.</p>
   <h2>How do you access ReferDev?</h2>
   <p>Accessing ReferDev is very simple, <i>very</i> simple. Just click on the GitHub page on the right of the repository.
   <h2>What programming languages ReferDev have?</h2>
